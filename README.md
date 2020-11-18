@@ -1,2 +1,2 @@
 # Sales
-Aplicacao Web feito em C# com DOT.NET Core.
+Aplicacao Web de vendas feito em C# com DOT.NET Core.
